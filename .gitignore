@@ -6,3 +6,5 @@ unused
 *.chi
 *.chs.h
 .virthualenv
+output
+files
